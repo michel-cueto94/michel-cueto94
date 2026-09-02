@@ -14,7 +14,7 @@ Analista de Ciberseguridad orientado a la Seguridad Defensiva (Blue Team) , Admi
 ### 📂 Mis Proyectos de Ciberseguridad
 
 
-- 🔹 **Home Lab:** [Próximamente...]
+- 🔹 **Home Lab:**Reporte: Análisis de Fuerza Bruta RDP](https://github.com/michel-cueto94/cybersecurity-homelab-docs)
 - 🔹 **Scripts de Auditoría PowerShell:** [Próximamente...]
 
 ---
