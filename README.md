@@ -1,16 +1,22 @@
-## Hi there 👋
+¡Hola! Soy Michel Cueto 
 
-<!--
-**michel-cueto94/michel-cueto94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Analista de Ciberseguridad orientado a la Seguridad Defensiva (Blue Team) , Administración de Infraestructuras y Respuesta a Incidentes.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tecnologías & Enfoque Práctico
+* **Sistemas Operativos:** Windows Server, Active Directory, Kali Linux, PowerShell.
+* **Redes:** Topologías Cisco (Packet Tracer), Análisis de Tráfico, Protocolos TCP/IP.
+* **Proyectos:** Montaje de Home Labs, Hardening de Sistemas y Monitoreo de Seguridad.
+
+---
+
+### 📂 Mis Proyectos de Ciberseguridad
+
+
+- 🔹 **Home Lab:** [Próximamente...]
+- 🔹 **Scripts de Auditoría PowerShell:** [Próximamente...]
+
+---
+
+📫 **Contacto:** michel.oteuc@gmail.com
