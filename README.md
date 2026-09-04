@@ -15,7 +15,7 @@ Mis Proyectos de Ciberseguridad
 
 
 * Home Lab: [Reporte: Análisis de Fuerza Bruta en RDP](https://github.com/michel-cueto94/cybersecurity-home-lab)
-* Scripts de Auditoría PowerShell: [Audit-WindowsServer.ps1](https://github.com/michel-cueto94/powershell-security-audit)Shell: [Audit-WindowsServer.ps1](https://github.com/michel-cueto94/powershell-security-audit)
+* Scripts de Auditoría PowerShell: [Audit-WindowsServer.ps1](https://github.com/michel-cueto94/powershell-security-audit)
 
 ---
 
