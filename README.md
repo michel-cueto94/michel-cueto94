@@ -14,8 +14,8 @@ Analista de Ciberseguridad orientado a la Seguridad Defensiva (Blue Team) , Admi
 Mis Proyectos de Ciberseguridad
 
 
-* Home Lab: [Reporte: Análisis de Fuerza Bruta en RDP](https://github.com/michel-cueto94/cybersecurity-home-lab)
-* Scripts de Auditoría PowerShell: [Audit-WindowsServer.ps1](https://github.com/michel-cueto94/powershell-security-audit.)
+* Home Lab: [Reporte: Análisis de Fuerza Bruta en RDP]([https://github.com/michel-cueto94/cybersecurity-home-lab](https://github.com/michel-cueto94/cybersecurity-homelab-docs))
+* * Scripts de Auditoría PowerShell: [Audit-WindowsServer.ps1](https://github.com/michel-cueto94/powershell-security-audit.)
 
 ---
 
