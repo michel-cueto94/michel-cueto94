@@ -4,18 +4,18 @@ Analista de Ciberseguridad orientado a la Seguridad Defensiva (Blue Team) , Admi
 
 ---
 
-🛠️ Tecnologías & Enfoque Práctico
+ Tecnologías & Enfoque Práctico
 * **Sistemas Operativos:** Windows Server, Active Directory, Kali Linux, PowerShell.
 * **Redes:** Topologías Cisco (Packet Tracer), Análisis de Tráfico, Protocolos TCP/IP.
 * **Proyectos:** Montaje de Home Labs, Hardening de Sistemas y Monitoreo de Seguridad.
 
 ---
 
-### 📂 Mis Proyectos de Ciberseguridad
+Mis Proyectos de Ciberseguridad
 
-- 🔹 **Home Lab:** [Reporte: Análisis de Fuerza Bruta en RDP](https://github.com/michel-cueto94/cybersecurity-homelab-docs)
-- 🔹 **Scripts de Auditoría PowerShell:** [Próximamente...]
+Home Lab: [Reporte: Análisis de Fuerza Bruta en RDP](https://github.com/michel-cueto94/cybersecurity-home-lab)
+Scripts de Auditoría PowerShell: [Audit-WindowsServer.ps1](https://github.com/michel-cueto94/powershell-security-audit)
 
 ---
 
-📫 **Contacto:** michel.oteuc@gmail.com
+**Contacto:** michel.oteuc@gmail.com
