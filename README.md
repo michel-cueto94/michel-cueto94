@@ -21,7 +21,7 @@
 - **Home Lab:** [Reporte: Análisis de Fuerza Bruta en RDP](https://github.com/michel-cueto94/cybersecurity-homelab-docs)  
   *Análisis exhaustivo de intentos de acceso no autorizados y configuración de políticas de auditoría de inicio de sesión.*
 
-- **Scripts de Auditoría PowerShell:** [Audit-WindowsServer.ps1](https://github.com/michel-cueto94/powershell-security-audit)  
+- **Scripts de Auditoría PowerShell:** [Audit-WindowsServer.ps1](https://github.com/michel-cueto94/powershell-security-audit.)  
   *Scripts automatizados para la extracción de registros de seguridad y auditoría en entornos Windows Server.*
 
 ---
