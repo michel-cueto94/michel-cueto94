@@ -1,6 +1,6 @@
 # ¡Hola! Soy Michel Cueto 👋
 
-**Analista de Ciberseguridad** orientado a la **Seguridad Defensiva (Blue Team)**, Administración de Infraestructuras y Respuesta a Incidentes.
+**Analista de Ciberseguridad** orientado a la **Seguridad Defensiva **, Administración de Infraestructuras y Respuesta a Incidentes.
 
 ---
 
