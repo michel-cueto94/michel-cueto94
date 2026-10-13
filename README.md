@@ -28,7 +28,7 @@
   *Ingesta de telemetría de Windows (Sysmon Event ID 1), detección de comandos PowerShell codificados en Base64 mediante regla nativa 92057 y respuesta automatizada vía Active Response.*
 
  - **Wazuh + VirusTotal + Active Response:**
-*Laboratorio donde se integra Wazuh con la API de VirusTotal para revisar automáticamente los archivos que aparecen en una carpeta monitoreada, y eliminar los que salen como maliciosos.*
+*Se integra Wazuh con la API de VirusTotal para revisar automáticamente los archivos que aparecen en una carpeta monitoreada, y eliminar los que salen como maliciosos.*
 ---
 
 ### 📬 Contacto
