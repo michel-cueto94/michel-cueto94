@@ -29,6 +29,9 @@
 
  - **Wazuh + VirusTotal + Active Response**:[Wazuh + VirusTotal + Active Response](https://github.com/michel-cueto94/wazuh-virustota-active-response/)
 *Se integra Wazuh con la API de VirusTotal para revisar automáticamente los archivos que aparecen en una carpeta monitoreada, y eliminar los que salen como maliciosos.*
+
+  - **Análisis Forense de Red (Wireshark):**:[Triage-Incidente-Exploit-Kit](https://github.com/michel-cueto94/Triage-Incidente-Exploit-Kit)
+*Análisis forense de evidencia en formato .pcap para la identificación de un compromiso por Exploit Kit HTTP, aislamiento de IoCs (IPs, dominios y hashes), extracción de artefactos binarios y documentación de acciones de contención.*
 ---
 
 ### 📬 Contacto
