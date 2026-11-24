@@ -33,7 +33,7 @@
   - **Análisis Forense de Red (Wireshark):**:[Triage-Incidente-Exploit-Kit](https://github.com/michel-cueto94/Triage-Incidente-Exploit-Kit)
 *Análisis forense de evidencia en formato .pcap para la identificación de un compromiso por Exploit Kit HTTP, aislamiento de IoCs (IPs, dominios y hashes), extracción de artefactos binarios y documentación de acciones de contención.*
 
-**Triaje Forense y Automatización (Python / Linux):** [linux-forensic-triage](https://github.com/michel-cueto94/linux-forensic-triage)  
+ - **Triaje Forense y Automatización (Python / Linux):** [linux-forensic-triage](https://github.com/michel-cueto94/linux-forensic-triage)  
   *Herramienta CLI en Python para automatizar la preservación de cadena de custodia (hashes MD5/SHA-256), recolección de telemetría volátil en Linux, cálculo de entropía de Shannon, extracción de IoCs y enriquecimiento vía API de VirusTotal.*
 ---
 
